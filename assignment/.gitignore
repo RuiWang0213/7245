@@ -1,0 +1,10 @@
+/build
+*.class
+/test
+*.csv
+Lab_8_skeleton/nbproject/private
+Lab_8_skeleton/build
+Final/nbproject/private
+Final/build
+*.db4o
+Final/*.db4o
